@@ -17,3 +17,4 @@ discount_percent = int(input("Enter the discount percent:"))
 
 final_price = calculate_discount (price, discount_percent)
 print (final_price)
+
